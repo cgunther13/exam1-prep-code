@@ -1,0 +1,14 @@
+{
+  "name": "q2-simple-server",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Gunther",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
