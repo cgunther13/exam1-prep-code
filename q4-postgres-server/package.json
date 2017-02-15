@@ -1,0 +1,18 @@
+{
+  "name": "q4-postgres-server",
+  "version": "1.0.0",
+  "description": "Data from Postgres database incorporated into HTTP responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Gunther",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "hapi": "^16.1.0",
+    "nodemon": "^1.11.0",
+    "pg": "^6.1.2",
+    "vision": "^4.1.1"
+  }
+}
